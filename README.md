@@ -14,6 +14,6 @@ When a player's health hits zero, the game is over.
 
 Solution
 
-Few edge cases are handled
-Game Strategy is handled
-ArenaRuleExecuter is added to handle all arena rules
+1. Few edge cases are handled
+2. Game Strategy is handled
+3. ArenaRuleExecuter is added to handle all arena rules
